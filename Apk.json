@@ -1,0 +1,22 @@
+{
+  "appName": "WARMAX",
+  "version": "1.0.0",
+
+  "apiBaseUrl": "http://danielprivat.sano.biz.id:2000",
+
+  "pakasirBaseUrl": "https://app.pakasir.com",
+
+  "registrationFee": 5000,
+  "registrationQrisImage": "https://files.catbox.moe/tim43v.jpg",
+
+  "withdraw": {
+    "minimum": 25000,
+    "fee": 5000
+  },
+
+  "update": {
+    "enabled": true,
+    "apkUrl": "RAW_GITHUB_LINK_APK",
+    "releaseNotes": "warmax update terbaru"
+  }
+}
